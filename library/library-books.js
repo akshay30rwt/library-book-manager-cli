@@ -51,3 +51,24 @@ function deleteBook(id) {
     writeData(data);
     console.log(`Book: '${deletedBook.title}' deleted from the library`);
 }
+
+function searchBook(keyword) {
+    const data = readData();
+
+    const matchingBooks = data.books.filter(book =>
+        book.title.toLowerCase().includes(keyword.toLowerCase())
+    );
+
+    if (matchingBooks.length === 0) {
+        console.log('No books found');
+        return;
+    }
+
+    matchingBooks.forEach(book => {
+        console.log(
+            `ID: ${book.id} | Title: ${book.title} | Author: ${book.author} | Year: ${book.year}`
+        );
+    });
+}
+
+module.exports = { addBook, viewBooks, deleteBook, searchBook };
