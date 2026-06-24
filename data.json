@@ -2,9 +2,123 @@
   "books": [
     {
       "id": 1,
-      "title": "The Alchemist",
-      "author": "Paulo Coelho",
-      "year": 1988
+      "title": "Node.js Guide",
+      "author": "John Smith",
+      "year": 2021
+    },
+    {
+      "id": 2,
+      "title": "Advanced Node.js",
+      "author": "Sarah Johnson",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "title": "Node.js for Beginners",
+      "author": "Michael Brown",
+      "year": 2020
+    },
+    {
+      "id": 4,
+      "title": "JavaScript Basics",
+      "author": "David Wilson",
+      "year": 2019
+    },
+    {
+      "id": 5,
+      "title": "Modern JavaScript",
+      "author": "Emma Davis",
+      "year": 2023
+    },
+    {
+      "id": 6,
+      "title": "JavaScript Design Patterns",
+      "author": "James Miller",
+      "year": 2021
+    },
+    {
+      "id": 7,
+      "title": "MongoDB Essentials",
+      "author": "Olivia Taylor",
+      "year": 2022
+    },
+    {
+      "id": 8,
+      "title": "Mastering MongoDB",
+      "author": "Daniel Anderson",
+      "year": 2024
+    },
+    {
+      "id": 9,
+      "title": "Express.js in Action",
+      "author": "Sophia Thomas",
+      "year": 2021
+    },
+    {
+      "id": 10,
+      "title": "Learning Express.js",
+      "author": "William Jackson",
+      "year": 2020
+    },
+    {
+      "id": 11,
+      "title": "The Great Adventure",
+      "author": "Emily White",
+      "year": 2018
+    },
+    {
+      "id": 12,
+      "title": "Adventure in the Mountains",
+      "author": "Benjamin Harris",
+      "year": 2017
+    },
+    {
+      "id": 13,
+      "title": "Space Adventure",
+      "author": "Charlotte Martin",
+      "year": 2022
+    },
+    {
+      "id": 14,
+      "title": "The Lost Kingdom",
+      "author": "Alexander Thompson",
+      "year": 2016
+    },
+    {
+      "id": 15,
+      "title": "Kingdom of Fire",
+      "author": "Amelia Garcia",
+      "year": 2019
+    },
+    {
+      "id": 16,
+      "title": "Hidden Kingdom Secrets",
+      "author": "Ethan Martinez",
+      "year": 2023
+    },
+    {
+      "id": 17,
+      "title": "Data Structures with C++",
+      "author": "Noah Robinson",
+      "year": 2020
+    },
+    {
+      "id": 18,
+      "title": "Algorithms Made Easy",
+      "author": "Ava Clark",
+      "year": 2021
+    },
+    {
+      "id": 19,
+      "title": "Backend Development Handbook",
+      "author": "Liam Rodriguez",
+      "year": 2024
+    },
+    {
+      "id": 20,
+      "title": "REST API Development",
+      "author": "Mia Lewis",
+      "year": 2023
     }
   ]
 }
